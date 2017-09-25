@@ -3,8 +3,10 @@
 @import url('https://fonts.googleapis.com/css?family=Saira');
 
 .content-wrapper {margin: 60px;}
-.mypic img {width: 300px;}
-.bio-wrapper {margin: 50px;}
+.mypic img {width: 300px;
+display: block;
+margin: auto;}
+.bio-wrapper {margin: 25px 180px 50px 180px;;}
 hr {height: 5px;
     background-color: green;}
 h1,h2 {text-align: center;
