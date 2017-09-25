@@ -1,4 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
-hr {background-color: green;}
+@import url('https://fonts.googleapis.com/css?family=Saira');
+
+.content-wrapper {margin: 60px;}
+.bio-wrapper {margin: 150px;}
+hr {height: 5px;
+    background-color: green;}
+h1,h2 {text-align: center;
+font-family:'Saira', sans-serif }
 h3 {text-decoration: underline;}
