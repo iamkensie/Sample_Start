@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Saira');
 
 .content-wrapper {margin: 60px;}
+.mypic img {width: 300px;}
 .bio-wrapper {margin: 150px;}
 hr {height: 5px;
     background-color: green;}
